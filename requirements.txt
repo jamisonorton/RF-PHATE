@@ -1,6 +1,5 @@
 graphtools
 numpy
-pandas
 phate
 scikit_learn
 scipy
